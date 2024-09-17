@@ -35,8 +35,9 @@ This project is based on a Fireship tutorial of a simple full stack app used to 
    cd server
    npm i
     ```
-4. **Start the frontend**
+4. **Start the frontend** in the root of the project
    ```bash 
+   cd ..
    npm run dev
     ```
     Vite will start the app on port 5173.
